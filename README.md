@@ -1,5 +1,6 @@
 # TestTaskVK
 Тестовое задание на должность Python Developer (Flask) для DIGITAL FUTURE SYSTEMS
+Описание в формате Open API: https://app.swaggerhub.com/apis/realalexasha/TestTaskVK/1.0.0
 ## Настройка и запуск
 1. После копирования файлов последовательно запустите в командной строке команды **pipenv install** и **pipenv shell**.
 2. Создайте файл найстроек **.env** из шаблона **example.env**. Заполните настройки:
